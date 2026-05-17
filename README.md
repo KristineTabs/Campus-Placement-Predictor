@@ -47,18 +47,9 @@ Campus-Placement-Predictor/
 ```
 ---
 
-## ✅ Day 1 Completed
+## ✅ Day 2 Completed
 
-- Project repository setup on GitHub
-- Initial Exploratory Data Analysis (`01_EDA.ipynb`)
-- Target variable analysis (Placement & Salary distribution)
-
----
-
-## 🔄 Next Steps (Planned)
-
-- Proper feature engineering and null value handling
-- Deep EDA (by branch, college tier, skills, etc.)
-- Model building (XGBoost, Random Forest, etc.)
-- Model interpretability using SHAP
-- Interactive Streamlit Dashboard
+- Deep Univariate Analysis (CGPA, Skill Score, Internships, Salary)
+- Correlation Heatmap & Feature Importance Analysis
+- Bivariate Analysis (Relationship with Salary)
+- Placement Rate Analysis by Branch, College Tier, Backlogs, and Internships
