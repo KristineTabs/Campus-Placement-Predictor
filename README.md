@@ -47,9 +47,9 @@ Campus-Placement-Predictor/
 ```
 ---
 
-## ✅ Day 2 Completed
+## ✅ Day 3 Completed
 
-- Deep Univariate Analysis (CGPA, Skill Score, Internships, Salary)
-- Correlation Heatmap & Feature Importance Analysis
-- Bivariate Analysis (Relationship with Salary)
-- Placement Rate Analysis by Branch, College Tier, Backlogs, and Internships
+- Advanced feature engineering
+- Comparative analysis (Tier 1 vs Tier 3, CSE vs Others)
+- Individual skill importance analysis (Python, DSA, ML, Web Dev)
+- Creation of composite features with strong predictive power
