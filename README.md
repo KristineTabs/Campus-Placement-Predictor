@@ -47,9 +47,10 @@ Campus-Placement-Predictor/
 ```
 ---
 
-## ✅ Day 3 Completed
+## ✅ Day 4 Completed
 
-- Advanced feature engineering
-- Comparative analysis (Tier 1 vs Tier 3, CSE vs Others)
-- Individual skill importance analysis (Python, DSA, ML, Web Dev)
-- Creation of composite features with strong predictive power
+- Advanced Feature Engineering (multiple composite & interaction features)
+- Categorical encoding
+- Data Preparation for Modeling (Classification + Regression)
+- Train/Test splits and feature scaling
+- Created modeling-ready datasets
