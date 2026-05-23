@@ -47,10 +47,8 @@ Campus-Placement-Predictor/
 ```
 ---
 
-## ✅ Day 4 Completed
+## ✅ Day 5 Completed
 
-- Advanced Feature Engineering (multiple composite & interaction features)
-- Categorical encoding
-- Data Preparation for Modeling (Classification + Regression)
-- Train/Test splits and feature scaling
-- Created modeling-ready datasets
+- Trained Logistic Regression, Random Forest, and XGBoost
+- Hyperparameter tuning and cross-validation
+- Saved best model and results
