@@ -47,8 +47,10 @@ Campus-Placement-Predictor/
 ```
 ---
 
-## ✅ Day 5 Completed
+## ✅ Day 6 Completed
 
-- Trained Logistic Regression, Random Forest, and XGBoost
-- Hyperparameter tuning and cross-validation
-- Saved best model and results
+- Baseline regression Modeling (`salary_lpa`)
+- Trained XGBoost and LightGBM Regressors
+- Model evaluation (MAE, RMSE, R²)
+- SHAP interpretability analysis
+- Saved best classification and regression models
